@@ -1,0 +1,29 @@
+#header_fixed {
+	width: 100%;
+	margin: 0 auto;
+}
+
+#header_bk:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+#header {
+	float: right;
+}
+
+#footer_fixed {
+	height: 100%;
+	margin: 0 auto;
+}
+
+#footer:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+#footer {
+	float: right;
+}
